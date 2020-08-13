@@ -1,0 +1,23 @@
+{
+    "name": "chapdel/crypton",
+    "description": "Laravel encrypter and decrypter for Javascript laravel-crypton client",
+    "type": "library",
+    "keywords": ["Laravel", "Crypton", "Javascript"],
+    "require": {
+        "illuminate/support": "~5.7|~5.8|^6.0|^7.0",
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chapdel",
+            "email": "me@chapdel.xyz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Chapdel\\CryptOn\\": "src/"
+        }
+    }
+}
