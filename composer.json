@@ -1,5 +1,5 @@
 {
-    "name": "chapdel/crypton",
+    "name": "chapdel/laravel-crypton",
     "description": "Laravel encrypter and decrypter for Javascript laravel-crypton client",
     "type": "library",
     "keywords": ["Laravel", "Crypton", "Javascript"],
